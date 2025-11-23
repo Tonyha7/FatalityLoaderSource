@@ -2,7 +2,13 @@
 
 A modern, sleek DLL loader for Counter-Strike 2 with a clean WPF interface inspired by the original Fatality cheat loader.
 
-![Fatality Loader](https://img.shields.io/badge/Platform-Windows-blue) ![.NET](https://img.shields.io/badge/.NET-8.0-purple) ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Programming-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![Target](https://img.shields.io/badge/Target-CS2-orange?style=for-the-badge&logo=counter-strike&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 ## ✨ Features
 
@@ -94,11 +100,11 @@ This project is open-source and available under the MIT License.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page or write in @cs2supportbot in Telegram.
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ## 📧 Support
 
-For questions or support, please open an issue on this repository or write in @cs2supportbot in Telegram.
+For questions or support, please open an issue on this repository.
 
 ---
 
